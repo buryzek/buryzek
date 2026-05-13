@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @buryzek
-- 👀 I’m interested in beer. whisky and girls
-- 🌱 I’m currently learning yara
-- 💞️ I’m looking to collaborate on drink
-- 📫 How to reach me ....
+- 👀 I’m interested in whisky and girls
+
 
 <!---
 buryzek/buryzek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
